@@ -159,7 +159,7 @@
       "dist": {
         "integrity": "sha512-Z3ofiPnuIHJy7Wdudo0JLd6tapr25JCI6CAh5Ab8pV1QTfXy+eX4VXwNJl68VYa+VDEwH2I7BcRfMr6p/hIJBw==",
         "shasum": "94fea6c32d09bbb709e0abd0df78a8dcb40cabb2",
-        "tarball": "https://cdn.jsdelivr.net/gh/Ebony-Vinyl/dsh-our-free-model@ios/registry/dsh-our-free-model-2.8.6-ios.tgz"
+        "tarball": "https://cdn.jsdelivr.net/gh/a769445961/iOS-@ios/dsh-our-free-model-2.8.6-ios.tgz"
       }
     }
   }
