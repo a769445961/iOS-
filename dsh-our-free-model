@@ -157,8 +157,9 @@
         }
       },
       "dist": {
+        "integrity": "sha512-NZHcO8GeKdcNeb1NKxMoTDPrXPD1JwcadBVXoGRT7YAg0r+H1aAXaC7mzCn6Uq9WB1E1xhMPxldpSSPfHKsSwg==",
         "shasum": "79cafbf06174e8d88cabaa90ed2d5b7178354a2f",
-        "tarball": "https://cdn.jsdelivr.net/gh/a769445961/iOS-@ios/dsh-our-free-model-2.8.6-ios.tgz"
+        "tarball": "https://fastly.jsdelivr.net/gh/a769445961/iOS-@2454809c050155937c3a0fccc3622aff67d0630a/dsh-our-free-model-2.8.6-ios.tgz"
       }
     }
   }
